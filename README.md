@@ -29,3 +29,8 @@ python3 geoblock_test.py
 ```
 
 Loads `PRIVATE_KEY` from `.arbVenv` to derive CLOB API creds; never committed (`.arbVenv`, `.env*`, `*.key`, `*.pem` are git-ignored). The wallet only signs auth headers; no order is placed, so there is no fill risk.
+
+## Feedback
+
+Suggestions, improvements, or something not working? Please
+[open an issue](https://github.com/needmoneyforhoes/clob-geoblock-probe/issues/new). Pull requests are welcome too.
